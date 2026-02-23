@@ -5,5 +5,5 @@ export function add(a, b) {
 // add and isEven
 
 export function isEven(n) {
-  return n % 2 === 0;
+  return n % 2 == 0;
 }
